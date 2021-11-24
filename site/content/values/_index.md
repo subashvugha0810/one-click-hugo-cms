@@ -2,7 +2,7 @@
 title: About
 image: /img/about-jumbotron.jpg
 values:
-  - heading: “LEARN, LIVE, LEAD”
+  - heading: About US
     text: >
       Mount Olive Matric. Hr. Sec. School was founded in May 2012. Since its
       founding MOS has been dedicated to expanding and sharing knowledge,
