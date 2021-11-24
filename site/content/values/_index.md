@@ -14,17 +14,18 @@ values:
       school to provide quality education and all round development for
       children.
 
-      He is supported by his wife Jayanthi Jayapaul who has served in the educational sector for 30 years. She is trained to be at teacher and started her career as a Nursery teacher. She always considers her students as her own children. She grew to be a high school teacher. Her extensive study and in-depth knowledge about children and their needs is an asset for Mount Olive Matric. Hr. Sec. School.
-
-      Mr. and Mrs. Jayapaul dream has always been to educate children by teaching them life's values and providing quality education for mental, physical, moral and social development. They believe in the Biblical Principle. "Train up a child in the way he should go and when he is old, he will not depart from it. Proverbs 22:6
 
     imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+  - heading: "Jayanthi Jayapaul "
+    text: >-
+      He is supported by his wife Jayanthi Jayapaul who has served in the
+      educational sector for 30 years. She is trained to be at teacher and
+      started her career as a Nursery teacher. She always considers her students
+      as her own children. She grew to be a high school teacher. Her extensive
+      study and in-depth knowledge about children and their needs is an asset
+      for Mount Olive Matric. Hr. Sec. School.
+
+      Mr. and Mrs. Jayapaul dream has always been to educate children by teaching them life's values and providing quality education for mental, physical, moral and social development. They believe in the Biblical Principle. "Train up a child in the way he should go and when he is old, he will not depart from it. Proverbs 22:6
     imageUrl: /img/about-single-origin.jpg
   - heading: Sustainable farming
     text: >
