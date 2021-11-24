@@ -2,8 +2,33 @@
 title: About
 image: /img/about-jumbotron.jpg
 values:
+  - heading: “LEARN, LIVE, LEAD”
+    text: >
+      Mount Olive Matric. Hr. Sec. School was founded in May 2012. Since its
+      founding MOS has been dedicated to expanding and sharing knowledge,
+      inspiring innovation and preserving cultural and scientific information
+      for future generations. 
+    imageUrl: /img/about-shade-grown.jpg
+  - heading: MISSION
+    text: >
+      Our vision is to create a vibrant community of learners striving for
+      excellence in all strata of life. We focus on creating and nurturing
+      individuals with values of respect, responsibility, resilience, integrity,
+      compassion and harmony. We believe in imparting wisdom and knowledge and
+      teaching children to achieve their full potential within the school
+      environment and society at large. We strive to provide the best quality
+      education for the balanced and holistic development of a child.
+    imageUrl: /img/about-single-origin.jpg
+  - heading: VISION
+    text: Mount Olive  School is committed to providing educational excellence for
+      mental, physical, moral and social development. We prepare the students to
+      understand about, contribute to and succeed in in a rapidly competitive
+      society. We aim to inspire success, confidence and hope in each student.
+      We seek to install in our students a sense of ethics, care and compassion
+      for others through engagement in community service and global citizenship
+    imageUrl: /img/about-sustainable-farming.jpg
   - heading: ABOUT THE FOUNDERS
-    text: >+
+    text: >
       Mr. Jayapaul Ponnumuthu has been a Teacher, Educator, Academician and
       Administrator for the past 32 years. He started his career at Seventh Day
       Adventist Organisation as a teacher and worked his way up to being the
@@ -13,11 +38,9 @@ values:
       has helped him in achieving his dream of building a state of the art
       school to provide quality education and all round development for
       children.
-
-
-    imageUrl: /img/about-shade-grown.jpg
-  - heading: "Jayanthi Jayapaul "
-    text: >-
+    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: "-"
+    text: >+
       He is supported by his wife Jayanthi Jayapaul who has served in the
       educational sector for 30 years. She is trained to be at teacher and
       started her career as a Nursery teacher. She always considers her students
@@ -26,26 +49,6 @@ values:
       for Mount Olive Matric. Hr. Sec. School.
 
       Mr. and Mrs. Jayapaul dream has always been to educate children by teaching them life's values and providing quality education for mental, physical, moral and social development. They believe in the Biblical Principle. "Train up a child in the way he should go and when he is old, he will not depart from it. Proverbs 22:6
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+
     imageUrl: /img/about-reinvest-profits.jpg
 ---
