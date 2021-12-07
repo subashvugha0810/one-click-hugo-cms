@@ -3,7 +3,7 @@ title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why sets us apart?
+  heading: Why choose us?
   text: >
     We believe that the best education is one where the development of children
     into successful humans is aided by an inquiry-based education. One which
