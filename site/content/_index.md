@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Welcome to Mountolive
+subtitle: Learn! Live! Lead!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why choose us?
@@ -31,8 +31,11 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >+
+    Mount Olive School is committed to providing educational excellence for
+    mental, physical, moral and social development. We prepare the students to
+    understand about, contribute to and succeed in in a rapidly competitive
+    society. We aim to inspire success, confidence and hope in each student. We
+    seek to install in our students a sense of ethics, care and compassion for
+    others through engagement in community service and global citizenship.
 ---
