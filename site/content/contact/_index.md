@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: img/eipngw356812.png
 contact_entries:
   - heading: Location
     text: |-
