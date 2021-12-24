@@ -13,22 +13,21 @@ blurb:
     child will receive the highest standard of education.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: Since its inception, Mount Olive has developed a range of programs to
+    complement its school curriculum and to provide students with exposure to a
+    broad range of extra-curricular activities. We also prides ourself on
+    providing students with the best in support services to ensure that each and
+    every student is cared for and learns the importance of health and wellbeing
+    to their daily life.
 products:
-  - image: img/images-12-.jpeg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
   - image: img/images-13-.jpeg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Our teachers and staff are very passionate about your child’s safety and
+      learning experiences. We know that each child develops and learns
+      differently, so the Mountolives’ teachers and staff work with you to
+      ascertain which class will fit the needs of your child best. Our staff and
+      teachers are dedicated to creating a rich learning environment for all of
+      the children in our care by providing age appropriate and interactive
+      learning opportunities.
 values:
   heading: Our values
   text: >
