@@ -18,7 +18,7 @@ values:
       teaching children to achieve their full potential within the school
       environment and society at large. We strive to provide the best quality
       education for the balanced and holistic development of a child.
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/images-11-.jpeg
   - heading: VISION
     text: Mount Olive  School is committed to providing educational excellence for
       mental, physical, moral and social development. We prepare the students to
@@ -26,7 +26,7 @@ values:
       society. We aim to inspire success, confidence and hope in each student.
       We seek to install in our students a sense of ethics, care and compassion
       for others through engagement in community service and global citizenship
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/images-7-.jpeg
   - heading: ABOUT THE FOUNDERS
     text: >
       Mr. Jayapaul Ponnumuthu has been a Teacher, Educator, Academician and
@@ -38,7 +38,7 @@ values:
       has helped him in achieving his dream of building a state of the art
       school to provide quality education and all round development for
       children.
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: img/images-14-.jpeg
   - heading: "-"
     text: >+
       He is supported by his wife Jayanthi Jayapaul who has served in the
@@ -50,5 +50,5 @@ values:
 
       Mr. and Mrs. Jayapaul dream has always been to educate children by teaching them life's values and providing quality education for mental, physical, moral and social development. They believe in the Biblical Principle. "Train up a child in the way he should go and when he is old, he will not depart from it. Proverbs 22:6
 
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: img/images-8-.jpeg
 ---
