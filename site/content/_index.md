@@ -1,7 +1,7 @@
 ---
 title: Welcome to Mountolive
 subtitle: Learn! Live! Lead!
-image: /img/home-jumbotron.jpg
+image: img/images-17-.jpeg
 blurb:
   heading: Why choose us?
   text: >
@@ -18,20 +18,20 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/images-12-.jpeg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/images-13-.jpeg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
   heading: Our values
-  text: >+
+  text: >
     Mount Olive School is committed to providing educational excellence for
     mental, physical, moral and social development. We prepare the students to
     understand about, contribute to and succeed in in a rapidly competitive
