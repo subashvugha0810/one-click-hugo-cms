@@ -8,7 +8,7 @@ values:
       founding MOS has been dedicated to expanding and sharing knowledge,
       inspiring innovation and preserving cultural and scientific information
       for future generations. 
-    imageUrl: img/lab.png
+    imageUrl: img/images-26-.jpeg
   - heading: MISSION
     text: >
       Our vision is to create a vibrant community of learners striving for
@@ -27,7 +27,7 @@ values:
       We seek to install in our students a sense of ethics, care and compassion
       for others through engagement in community service and global citizenship
     imageUrl: img/images-7-.jpeg
-  - heading: ABOUT THE FOUNDERS
+  - heading: ABOUT THE FOUNDER
     text: >
       Mr. Jayapaul Ponnumuthu has been a Teacher, Educator, Academician and
       Administrator for the past 32 years. He started his career at Seventh Day
@@ -39,7 +39,7 @@ values:
       school to provide quality education and all round development for
       children.
     imageUrl: img/images-14-.jpeg
-  - heading: "-"
+  - heading: The supporting pillar
     text: >+
       He is supported by his wife Jayanthi Jayapaul who has served in the
       educational sector for 30 years. She is trained to be at teacher and
