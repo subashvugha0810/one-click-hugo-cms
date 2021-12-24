@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/about-jumbotron.jpg
+image: img/images-18-.jpeg
 values:
   - heading: About US
     text: >
