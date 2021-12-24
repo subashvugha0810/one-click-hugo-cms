@@ -8,7 +8,7 @@ values:
       founding MOS has been dedicated to expanding and sharing knowledge,
       inspiring innovation and preserving cultural and scientific information
       for future generations. 
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/lab.png
   - heading: MISSION
     text: >
       Our vision is to create a vibrant community of learners striving for
