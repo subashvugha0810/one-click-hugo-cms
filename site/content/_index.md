@@ -1,7 +1,7 @@
 ---
 title: Welcome to Mountolive
 subtitle: Learn! Live! Lead!
-image: img/pexels-tom-fisk-3195186.jpg
+image: img/alsc_architects_westview_entry2.png
 blurb:
   heading: Why choose us?
   text: >
