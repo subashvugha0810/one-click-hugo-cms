@@ -20,14 +20,14 @@ intro:
     every student is cared for and learns the importance of health and wellbeing
     to their daily life.
 products:
-  - image: img/pexels-agung-pandit-wiguna-3401403.jpg
+  - image: img/images-12-.jpeg
     text: "We are passionate about your child’s safety and learning experiences. We
       know that each child develops and learns differently, so we work with you
       to ascertain which class will fit the needs of your child. "
-  - image: img/pexels-naomi-shi-1001914.jpg
-    text: Our staff and teachers are dedicated to creating a rich learning
+  - text: Our staff and teachers are dedicated to creating a rich learning
       environment for all of the children in our care by providing age
       appropriate and interactive learning opportunities.
+    image: img/images-14-.jpeg
 values:
   heading: Our values
   text: >
