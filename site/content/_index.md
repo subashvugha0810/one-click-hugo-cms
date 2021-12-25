@@ -1,7 +1,7 @@
 ---
 title: Welcome to Mountolive
 subtitle: Learn! Live! Lead!
-image: img/images-17-.jpeg
+image: img/pexels-tom-fisk-3195186.jpg
 blurb:
   heading: Why choose us?
   text: >
@@ -20,14 +20,14 @@ intro:
     every student is cared for and learns the importance of health and wellbeing
     to their daily life.
 products:
-  - image: img/images-13-.jpeg
-    text: Our teachers and staff are very passionate about your child’s safety and
-      learning experiences. We know that each child develops and learns
-      differently, so the Mountolives’ teachers and staff work with you to
-      ascertain which class will fit the needs of your child best. Our staff and
-      teachers are dedicated to creating a rich learning environment for all of
-      the children in our care by providing age appropriate and interactive
-      learning opportunities.
+  - image: img/pexels-agung-pandit-wiguna-3401403.jpg
+    text: "We are passionate about your child’s safety and learning experiences. We
+      know that each child develops and learns differently, so we work with you
+      to ascertain which class will fit the needs of your child. "
+  - image: img/pexels-naomi-shi-1001914.jpg
+    text: Our staff and teachers are dedicated to creating a rich learning
+      environment for all of the children in our care by providing age
+      appropriate and interactive learning opportunities.
 values:
   heading: Our values
   text: >
