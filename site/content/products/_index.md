@@ -15,9 +15,7 @@ intro:
     - image: img/images-22-.jpeg
       text: School Bus
     - image: img/images-23-.jpeg
-      text: Our curriculum incorporates amazing art projects as mechanisms for
-        learning. Through "making," children become directly engaged with what
-        they are learning and fully immersed in the subject at hand.
+      text: Martial arts
   heading: What we offer
   description: Our program goals and activities are designed for age
     appropriateness. Only by staying within such parameters can our children
