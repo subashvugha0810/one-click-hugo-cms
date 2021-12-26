@@ -1,9 +1,9 @@
 .b--primary {
-  border-color: var(--primary);
+  border-color: #1495CD;
 }
 
 .b--highlight {
-  border-color: --var(--highlight);
+  border-color: #1495CD;
 }
 
 .b--white {
