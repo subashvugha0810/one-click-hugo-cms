@@ -63,6 +63,7 @@
   .vh-50-m {  height:  50vh; }
   .vh-75-m {  height:  75vh; }
   .vh-100-m { height: 100vh; }
+  .vh-400-m { height: 400px; }
   .min-vh-100-m { min-height: 100vh; }
   .h-auto-m { height: auto; }
   .h-inherit-m { height: inherit; }
